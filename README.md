@@ -3,7 +3,7 @@
 ## Project 1: E-commerce & Website Analytics ##
 
 Objective: 
-This project was created by Maven Analytics. The objective was to act as an eCommerce Database Analyst for Maven Fuzzy Factory, an online retailer which has launched their products.
+This project was created by Maven Analytics. The objective was to act as an eCommerce Database Analyst for Maven Fuzzy Factory, an online retailer which has launched their products， to understand website performance.
 
 My goal was:
   - Analyze and optimize marketing channels, measure and test website conversion performance, and use data to understand the impact of new product launches
